@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdlNetTestApp", "SdlNetTestApp\SdlNetTestApp.csproj", "{82B24F30-E912-42A5-9960-716D7F482673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDLSharpGame", "src\SDLSharpGame.csproj", "{82B24F30-E912-42A5-9960-716D7F482673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2#", "SDL2-CS\SDL2#.csproj", "{85480198-8711-4355-830E-72FD794AD3F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2#", "thirdparty\SDL2-CS\SDL2#.csproj", "{85480198-8711-4355-830E-72FD794AD3F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
